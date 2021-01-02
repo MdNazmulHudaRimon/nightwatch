@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="130" height="130">
+	<defs>
+		<clipPath id="clip_0">
+			<rect x="-1374" y="-14686" width="2880" height="20856" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_0" gradientUnits="userSpaceOnUse" x1="29.786228" y1="29.220598" x2="4.1490078" y2="4.6024165">
+			<stop offset="0" stop-color="rgb(255,42,102)"/>
+			<stop offset="1" stop-color="rgb(19,234,224)"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_0)">
+		<path fill="url(#gradient_0)" stroke="none" transform="matrix(2 0 0 2 29.6838 30.5767)" d="M10.5674 1.33953L16.9674 0L23.6651 1.1907L29.1721 4.91163L32.893 10.5674L34.2326 17.2651L32.893 23.6651L29.1721 29.3209L23.6651 33.0419L16.9674 34.3814L10.5674 33.0419L5.06047 29.3209L1.33953 23.6651L0 16.9674L1.48837 10.5674L5.2093 5.06047L10.5674 1.33953ZM23.2186 2.53023L17.1163 1.48837L11.014 2.82791L6.10233 6.25116L2.67907 11.1628L1.48837 16.9674L2.97674 22.9209L6.4 27.9814L11.3116 31.4047L17.1163 32.5953L23.2186 31.4047L28.1302 27.9814L31.5535 22.9209L32.7442 17.1163L31.5535 11.014L28.1302 5.95349L23.2186 2.53023Z" fill-rule="evenodd"/>
+	</g>
+	<defs>
+		<clipPath id="clip_1">
+			<rect x="-1374" y="-14686" width="2880" height="20856" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_1" gradientUnits="userSpaceOnUse" x1="39.369625" y1="38.581306" x2="5.4839058" y2="6.0767832">
+			<stop offset="0" stop-color="rgb(255,42,102)"/>
+			<stop offset="1" stop-color="rgb(19,234,224)"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_1)">
+		<path fill="url(#gradient_1)" stroke="none" transform="matrix(2 0 0 2 18.9675 18.9673)" d="M18.6047 2.53023L22.6233 0L26.3442 2.67907L31.107 1.63721L34.2326 5.80465L38.8465 6.69767L39.7395 11.3116L43.7581 13.9907L42.7163 18.6047L45.2465 22.6233L42.7163 26.6419L43.7581 31.4046L39.4419 34.0837L38.5488 38.6977L33.9349 39.5907L31.2558 43.907L26.493 42.8651L22.4744 45.3953L18.4558 42.8651L13.8419 43.907L10.8651 39.4419L6.25116 38.5488L5.35814 33.9349L1.48837 31.4046L2.53023 26.6419L0 22.6233L2.53023 18.307L1.63721 13.8419L5.50698 11.014L6.4 6.4L11.1628 5.50698L13.8419 1.63721L18.6047 2.53023ZM25.7488 3.86977L22.6233 1.78605L19.2 3.86977L18.7535 4.16744L18.1581 4.0186L14.4372 3.27442L12.3535 6.4L11.907 7.14419L11.3116 7.29302L7.5907 7.88837L6.99535 11.4605L6.84651 12.0558L6.4 12.3535L3.12558 14.8837L3.86977 18.4558L4.0186 19.0512L3.72093 19.4977L1.63721 22.9209L3.72093 26.1954L4.0186 26.6419L3.86977 27.2372L3.12558 30.9581L6.25116 32.893L6.84651 33.1907L6.99535 33.786L7.5907 37.3581L11.1628 37.9535L11.7581 38.1023L12.0558 38.5488L14.4372 42.1209L18.307 41.3767L18.9023 41.2279L19.3488 41.5256L22.6233 43.6093L25.8977 41.5256L26.3442 41.2279L26.9395 41.3767L30.6605 42.1209L32.893 38.8465L33.1907 38.2512L33.9349 37.9535L37.507 37.3581L38.1023 33.786L38.2512 33.1907L38.8465 32.5953L42.2698 30.3628L41.5256 26.6419L41.3767 26.0465L41.6744 25.6L43.7581 22.3256L41.6744 19.0512L41.3767 18.6047L41.5256 18.0093L42.2698 14.4372L38.9953 12.3535L38.4 12.0558L38.2512 11.4605L37.6558 7.88837L33.9349 7.29302L33.3395 7.14419L33.0419 6.69767L30.5116 3.27442L26.7907 4.0186L26.1953 4.16744L25.7488 3.86977Z" fill-rule="evenodd"/>
+	</g>
+	<defs>
+		<clipPath id="clip_2">
+			<rect x="-1374" y="-14686" width="2880" height="20856" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_2" gradientUnits="userSpaceOnUse" x1="42.866268" y1="41.74371" x2="5.970963" y2="6.5748806">
+			<stop offset="0" stop-color="rgb(255,42,102)"/>
+			<stop offset="1" stop-color="rgb(19,234,224)"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_2)">
+		<path fill="url(#gradient_2)" stroke="none" transform="matrix(2 0 0 2 15.0977 15.3955)" d="M18.1581 0L30.8093 0L33.1907 3.86977L37.6558 2.97674L46.7349 11.907L45.693 15.9256L49.2651 18.307L49.2651 30.8093L45.5442 33.3395L46.2884 37.507L37.507 46.2884L33.1907 45.3954L30.6605 49.1163L18.307 49.1163L15.6279 45.2465L11.6093 46.2884L2.53023 37.3581L3.42326 33.0419L0 30.6605L0 18.1581L3.57209 15.7767L2.67907 11.4605L11.7581 2.53023L15.7767 3.42326L18.1581 0ZM32.1488 4.46512L30.0651 1.48837L19.0512 1.33953L17.1163 4.31628L16.5209 5.2093L15.4791 5.06047L12.2047 4.31628L4.31628 12.2047L5.06047 15.6279L5.35814 16.5209L4.46512 17.1163L1.48837 19.0512L1.48837 30.0651L4.31628 32L5.06047 32.5954L4.91163 33.4884L4.16744 36.9116L12.0558 44.8L15.3302 44.0558L16.3721 43.7581L16.9674 44.6512L19.2 47.9256L30.0651 47.9256L32.1488 44.8L32.7442 43.907L33.6372 44.2047L37.2093 44.8L44.9488 37.0605L44.2047 33.6372L44.0558 32.7442L44.8 32.1488L47.9256 30.0651L47.9256 19.0512L44.9488 17.1163L44.0558 16.5209L44.5023 15.4791L45.2465 12.2047L37.3581 4.31628L33.6372 5.06047L32.7442 5.2093L32.1488 4.46512Z" fill-rule="evenodd"/>
+	</g>
+	<defs>
+		<clipPath id="clip_3">
+			<rect x="-1374" y="-14686" width="2880" height="20856" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_3" gradientUnits="userSpaceOnUse" x1="12.043997" y1="6.5777965" x2="1.6776422" y2="1.0360417">
+			<stop offset="0" stop-color="rgb(255,42,102)"/>
+			<stop offset="1" stop-color="rgb(19,234,224)"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_3)">
+		<path fill="url(#gradient_3)" stroke="none" transform="matrix(2 0 0 2 72.2512 2)" d="M0 1.93488L8.78139 0L13.8419 7.73953L6.25116 6.25116L0 1.93488ZM10.7163 5.50698L8.18605 1.63721L3.72093 2.67907L6.84651 4.76279L10.7163 5.50698Z" fill-rule="evenodd"/>
+	</g>
+	<defs>
+		<clipPath id="clip_4">
+			<rect x="-1374" y="-14686" width="2880" height="20856" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_4" gradientUnits="userSpaceOnUse" x1="12.043997" y1="6.5777965" x2="1.6776422" y2="1.0360417">
+			<stop offset="0" stop-color="rgb(255,42,102)"/>
+			<stop offset="1" stop-color="rgb(19,234,224)"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_4)">
+		<path fill="url(#gradient_4)" stroke="none" transform="matrix(2 0 0 2 72.5488 111.842)" d="M6.4 1.48837L13.8419 0L8.78139 7.73953L0 5.80465L6.4 1.48837ZM8.03721 5.95349L10.5674 2.08372L6.99535 2.97674L3.72093 5.06046L8.03721 5.95349Z" fill-rule="evenodd"/>
+	</g>
+	<defs>
+		<clipPath id="clip_5">
+			<rect x="-1374" y="-14686" width="2880" height="20856" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_5" gradientUnits="userSpaceOnUse" x1="12.043997" y1="6.4513006" x2="1.6776422" y2="1.0161179">
+			<stop offset="0" stop-color="rgb(255,42,102)"/>
+			<stop offset="1" stop-color="rgb(19,234,224)"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_5)">
+		<path fill="url(#gradient_5)" stroke="none" transform="matrix(2 0 0 2 28.4929 2)" d="M0 7.5907L5.06047 0L13.8419 1.78605L7.44186 6.10233L0 7.5907ZM9.97209 2.53023L5.65581 1.63721L3.12558 5.50698L6.69767 4.61395L9.97209 2.53023Z" fill-rule="evenodd"/>
+	</g>
+	<defs>
+		<clipPath id="clip_6">
+			<rect x="-1374" y="-14686" width="2880" height="20856" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_6" gradientUnits="userSpaceOnUse" x1="6.6047721" y1="11.764136" x2="0.91999733" y2="1.8529209">
+			<stop offset="0" stop-color="rgb(255,42,102)"/>
+			<stop offset="1" stop-color="rgb(19,234,224)"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_6)">
+		<path fill="url(#gradient_6)" stroke="none" transform="matrix(2 0 0 2 2 28.4932)" d="M0 5.06047L7.5907 0L6.10233 7.5907L1.93488 13.8419L0 5.06047ZM4.61395 7.14419L5.35814 3.27442L1.63721 5.80465L2.53023 10.2698L4.61395 7.14419Z" fill-rule="evenodd"/>
+	</g>
+	<defs>
+		<clipPath id="clip_7">
+			<rect x="-1374" y="-14686" width="2880" height="20856" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_7" gradientUnits="userSpaceOnUse" x1="6.6047721" y1="11.890633" x2="0.91999733" y2="1.8728447">
+			<stop offset="0" stop-color="rgb(255,42,102)"/>
+			<stop offset="1" stop-color="rgb(19,234,224)"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_7)">
+		<path fill="url(#gradient_7)" stroke="none" transform="matrix(2 0 0 2 111.842 72.5488)" d="M1.48837 6.4L5.65581 0L7.5907 8.93023L0 13.9907L1.48837 6.4ZM5.95349 8.18605L5.06046 3.72093L2.82791 6.84651L2.08372 10.7163L5.95349 8.18605Z" fill-rule="evenodd"/>
+	</g>
+	<defs>
+		<clipPath id="clip_8">
+			<rect x="-1374" y="-14686" width="2880" height="20856" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_8" gradientUnits="userSpaceOnUse" x1="12.043997" y1="6.4513006" x2="1.6776422" y2="1.0161179">
+			<stop offset="0" stop-color="rgb(255,42,102)"/>
+			<stop offset="1" stop-color="rgb(19,234,224)"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_8)">
+		<path fill="url(#gradient_8)" stroke="none" transform="matrix(2 0 0 2 28.4929 111.842)" d="M5.06047 7.5907L0 0L7.5907 1.48837L13.8419 5.65581L5.06047 7.5907ZM10.1209 4.91163L6.99535 2.82791L3.12558 2.08372L5.65581 5.80465L10.1209 4.91163Z" fill-rule="evenodd"/>
+	</g>
+	<defs>
+		<clipPath id="clip_9">
+			<rect x="-1374" y="-14686" width="2880" height="20856" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_9" gradientUnits="userSpaceOnUse" x1="6.6047721" y1="11.890633" x2="0.91999733" y2="1.8728447">
+			<stop offset="0" stop-color="rgb(255,42,102)"/>
+			<stop offset="1" stop-color="rgb(19,234,224)"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_9)">
+		<path fill="url(#gradient_9)" stroke="none" transform="matrix(2 0 0 2 2 72.5488)" d="M0 8.93023L1.78605 0L6.10233 6.54884L7.5907 13.9907L0 8.93023ZM4.61395 7.14419L2.53023 3.86977L1.48837 8.33488L5.35814 10.8651L4.61395 7.14419Z" fill-rule="evenodd"/>
+	</g>
+	<defs>
+		<clipPath id="clip_10">
+			<rect x="-1374" y="-14686" width="2880" height="20856" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_10" gradientUnits="userSpaceOnUse" x1="6.7342772" y1="11.764136" x2="0.9380365" y2="1.8529209">
+			<stop offset="0" stop-color="rgb(255,42,102)"/>
+			<stop offset="1" stop-color="rgb(19,234,224)"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_10)">
+		<path fill="url(#gradient_10)" stroke="none" transform="matrix(2 0 0 2 111.842 28.4932)" d="M1.48837 7.44186L0 0L7.73953 5.06047L5.80465 13.8419L1.48837 7.44186ZM5.95349 5.80465L2.08372 3.27442L2.97674 6.84651L5.06046 10.1209L5.95349 5.80465Z" fill-rule="evenodd"/>
+	</g>
+
+</svg>
